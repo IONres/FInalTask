@@ -6,7 +6,7 @@
 
 Console.Clear();
 
-string[] arr = { "122", "1567", "-22", "computer science", "ffa", "22" };
+string[] arr = { "122", "1567", "-22", "computer science", "ff", "22" };
 PrintNewArr(ElementSelection(arr));
 
 string[] ElementSelection(string[] arr)
